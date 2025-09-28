@@ -1,0 +1,48 @@
+# Claude Code
+.claude/settings.local.json
+.claude/cache/
+.claude/logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+temp/
+
+# Logs
+*.log
+logs/
+
+# Node modules (if applicable)
+node_modules/
+
+# Python cache (if applicable)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+
+# Backup files
+*.bak
+*.backup
